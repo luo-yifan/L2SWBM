@@ -39,6 +39,7 @@ each tool set.
 [wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core L2SWBM model code | ![](static/badges/Status-Core-green.svg) |
 [wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the L2SWBM modelling system | ![](static/badges/Status-Core-green.svg) |
 [wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) |
-[wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the L2SWBM model | ![](static/badges/Status-unsupported-red.svg) |
+[Estimates of the water balance of the Laurentian Great Lakes using L2SWBM](https://deepblue.lib.umich.edu/data/collections/5425k9888?locale=en) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
+[Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 using L2SWBM](https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
 [rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for L2SWBM input and output files in R | ![](static/badges/Status-community_supported-orange.svg) |
 
