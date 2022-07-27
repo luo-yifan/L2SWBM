@@ -34,11 +34,11 @@ each tool set.
 
 
 ## Official repositories
-|Repository|Description|Support status|Build status|
-|------|------|-----------|---------|
-[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core L2SWBM model code | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_nwm_public.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_nwm_public) |
-[wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the L2SWBM modelling system | ![](static/badges/Status-Core-green.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_docker.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_docker) | 
-[wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) | None | 
-[wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the L2SWBM model | ![](static/badges/Status-unsupported-red.svg) | [![Build Status](https://travis-ci.org/NCAR/wrf_hydro_py.svg?branch=master)](https://travis-ci.org/NCAR/wrf_hydro_py) | 
-[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for L2SWBM input and output files in R | ![](static/badges/Status-community_supported-orange.svg) | None |
+|Repository|Description|Support status|
+|------|------|-----------|
+[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core L2SWBM model code | ![](static/badges/Status-Core-green.svg) |
+[wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the L2SWBM modelling system | ![](static/badges/Status-Core-green.svg) |
+[wrf_hydro_training](https://github.com/NCAR/wrf_hydro_training) | Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) |
+[wrf_hydro_py](https://github.com/NCAR/wrf_hydro_py) | Python API for the L2SWBM model | ![](static/badges/Status-unsupported-red.svg) |
+[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for L2SWBM input and output files in R | ![](static/badges/Status-community_supported-orange.svg) |
 
