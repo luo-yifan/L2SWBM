@@ -2,7 +2,7 @@
 
 ## Description
 Meta-repository for the Large Lakes Statistical Water Balance Model (L2SWBM). The L2SWBM used multiple independent data sets to obtain the prior distributions and likelihood functions, which were then assimilated by a Bayesian framework to infer a feasible range of each water balance component.
- <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-00613-z/MediaObjects/41597_2020_613_Fig2_HTML.png?as=webp" width=500 align="left"/ >
+ <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-00613-z/MediaObjects/41597_2020_613_Fig2_HTML.png?as=webp" width=500/ >
 
 ## What is L2SWBM?
 Water balance models are often employed to improve understanding of drivers of change in regional hydrologic cycles. Most of these models, however, are physically-based, and few employ state-of-the-art statistical methods to reconcile measurement uncertainty and bias.
