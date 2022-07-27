@@ -54,8 +54,8 @@ each tool set.
 |Repository|Description|Support status|
 |------|------|-----------|
 [Coordinating Committee operational version](https://github.com/cc-hydrosub/L2SWBM) | Operational version of L2SWBM maintained by the Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic Data | ![](static/badges/Status-Core-green.svg) |
-[NOAA-GLERL development version](https://github.com/NOAA-GLERL/L2SWBM))| Development version of L2SWBM maintained by NOAA-GLERL | ![](static/badges/Status-Core-green.svg) |
-[SEAS-hydro research version](https://github.com/luo-yifan/SEAS_hydro_research)| Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) |
+[NOAA-GLERL development version](https://github.com/NOAA-GLERL/L2SWBM)| Development version of L2SWBM maintained by the NOAA Great Lakes Environmental Research Laboratory (GLERL), along with its partners at the University of Michigan Cooperative Institute for Great Lakes Research (CIGLR) | ![](static/badges/Status-Core-green.svg) |
+[SEAS-hydro research version](https://github.com/luo-yifan/SEAS_hydro_research)| Research version of L2SWBM developed by the University of Michigan  School for Environment and Sustainability hydrology lab| ![](static/badges/Status-Core-green.svg) |
 [Estimates of the water balance of the Laurentian Great Lakes using L2SWBM](https://deepblue.lib.umich.edu/data/collections/5425k9888?locale=en) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
 [Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 using L2SWBM](https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
 
