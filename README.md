@@ -3,7 +3,6 @@
 ## Description
 Meta-repository for the Large Lakes Statistical Water Balance Model (L2SWBM). The L2SWBM used multiple independent data sets to obtain the prior distributions and likelihood functions, which were then assimilated by a Bayesian framework to infer a feasible range of each water balance component.
 
-<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-00613-z/MediaObjects/41597_2020_613_Fig2_HTML.png?as=webp" width=500/ >
 
 ## What is L2SWBM?
 Water balance models are often employed to improve understanding of drivers of change in regional hydrologic cycles. Most of these models, however, are physically-based, and few employ state-of-the-art statistical methods to reconcile measurement uncertainty and bias.
@@ -11,6 +10,8 @@ Water balance models are often employed to improve understanding of drivers of c
 Starting in 2015, NOAA Great Lakes Environmental Research Laboratory (GLERL), along with its partners at the University of Michigan Cooperative Institute for Great Lakes Research (CIGLR), began developing a water balance model under a Bayesian Markov chain Monte Carlo framework. Through this model, we generate new estimates of monthly runoff, over-lake evaporation, over-lake precipitation, and connecting channel flows for each of the Great Lakes. The new model reconciles discrepancies between model and measurement-based estimates of each component while closing the Laurentian Great Lakes water balance.
 
 In 2017, funding from the International Joint Commission - through their International Watersheds Initiative was received to use the model in generating a new, balanced historical (1950 - 2015) record of the Laurentian Great Lakes water balance. The project will help in resolving the regional water budget across monthly and inter-annual time scales and represents an important stepping stone towards addressing a long-standing need in the Great Lakes for clear and defensible differentiation between hydrological, climatological, geological, and anthropogenic drivers behind seasonal and long-term changes in Laurentian Great Lakes water levels.
+
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-020-00613-z/MediaObjects/41597_2020_613_Fig2_HTML.png?as=webp" width=500/ >
 
 To run these models, you will need to do the following:
 
@@ -54,5 +55,3 @@ The L2SWBM modelling system encompasses many different versions used by various 
 [SEAS-hydro research version](https://github.com/luo-yifan/SEAS_hydro_research)| Research version of L2SWBM developed by the University of Michigan  School for Environment and Sustainability (SEAS) hydrology laboratory| ![](static/badges/Status-Core-green.svg) |
 [Estimates of the water balance of the Laurentian Great Lakes using L2SWBM](https://deepblue.lib.umich.edu/data/collections/5425k9888?locale=en) | University of Michigan's Deep Blue archive contains monthly estimates of the water balance of the Laurentian Great Lakes from 1950 to 2019 that were produced by L2SWBM| ![](static/badges/Status-unsupported-red.svg) |
 
-## Disclaimer
-XXXX
