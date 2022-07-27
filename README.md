@@ -53,10 +53,11 @@ each tool set.
 ## Public repositories
 |Repository|Description|Support status|
 |------|------|-----------|
-[wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core L2SWBM model code | ![](static/badges/Status-Core-green.svg) |
-[wrf_hydro_docker](https://github.com/NCAR/wrf_hydro_docker) | Docker files to support the L2SWBM modelling system | ![](static/badges/Status-Core-green.svg) |
-[L2SWBM_training](https://github.com/NCAR/wrf_hydro_training) | Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) |
+[Coordinating Committee operational version](https://github.com/cc-hydrosub/L2SWBM) | Operational version of L2SWBM maintained by the Coordinating Committee on Great Lakes Basic Hydraulic and Hydrologic Data | ![](static/badges/Status-Core-green.svg) |
+[NOAA-GLERL development version](https://github.com/NOAA-GLERL/L2SWBM))| Development version of L2SWBM maintained by NOAA-GLERL | ![](static/badges/Status-Core-green.svg) |
+[SEAS-hydro research version](https://github.com/luo-yifan/SEAS_hydro_research)| Materials from L2SWBM training workshops | ![](static/badges/Status-Core-green.svg) |
 [Estimates of the water balance of the Laurentian Great Lakes using L2SWBM](https://deepblue.lib.umich.edu/data/collections/5425k9888?locale=en) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
 [Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 using L2SWBM](https://deepblue.lib.umich.edu/data/concern/data_sets/sb3978457) | University of Michigan's Deep Blue archive | ![](static/badges/Status-unsupported-red.svg) |
-[rwrfhydro](https://github.com/NCAR/rwrfhydro) | A toolbox for L2SWBM input and output files in R | ![](static/badges/Status-community_supported-orange.svg) |
 
+
+## Disclaimer
