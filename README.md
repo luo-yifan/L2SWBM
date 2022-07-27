@@ -23,15 +23,15 @@ Gronewold, D., J. Bruxer, D. Durnford, J. Smith, A. Clites, F. Seglenieks, S. Qu
 
 Smith, J.P., & Gronewold, A.D. (2017). Development and analysis of a Bayesian water balance model for large lake systems. arXiv: Applications. https://arxiv.org/abs/1710.10161
 
-Smith, J.P., & Gronewold, A.D. (2018) Summary Report: Development of the Large Lake Statistical Water Balance Model for Constructing a New Historical Record of the Great Lakes Water Balance. FINAL report for the International Joint Commission. https://www.glerl.noaa.gov/pubs/fulltext/2018/20180021.pdf
+Smith, J.P., & Gronewold, A.D. (2018). Summary Report: Development of the Large Lake Statistical Water Balance Model for Constructing a New Historical Record of the Great Lakes Water Balance. FINAL report for the International Joint Commission. https://www.glerl.noaa.gov/pubs/fulltext/2018/20180021.pdf
 
 Smith, J.P., Gronewold, A.D., L. Read and J.L. Crooks (2019) Large Lake Statistical Water Balance Model - Laurentian Great Lakes -  1 month time window - 1980 through 2015 monthly summary data and model output. Deep Blue, University of Michigan, Ann Arbor, MI. https://doi.org/10.7302/s6h1-d521, https://deepblue.lib.umich.edu/data/concern/data_sets/2514nk609
 
 Gronewold, A. D., Smith, J. P., Read, L., & Crooks, J. L. (2020). Reconciling the water balance of large lake systems. Advances in Water Resources, 103505. https://doi.org/10.1016/j.advwatres.2020.103505
 
-Do, H.X., J.P. Smith, L.M. Fry and A.D. Gronewold (2020) Seventy-year long record of monthly water balance estimates for Earth’slargest lake system. Scientific Data 7, 276. https://doi.org/10.1038/s41597-020-00613-z
+Do, H.X., J.P. Smith, L.M. Fry and A.D. Gronewold (2020). Seventy-year long record of monthly water balance estimates for Earth’slargest lake system. Scientific Data 7, 276. https://doi.org/10.1038/s41597-020-00613-z
 
-Do, Hong X., J.P. Smith, L.M. Fry and A.D. Gronewold (2020) Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 (v1.1).  Deep Blue, University of Michigan, Ann Arbor, MI. https://doi.org/10.7302/tx97-nn12
+Do, Hong X., J.P. Smith, L.M. Fry and A.D. Gronewold (2020). Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 (v1.1).  Deep Blue, University of Michigan, Ann Arbor, MI. https://doi.org/10.7302/tx97-nn12
 
 Gronewold, A. D., Do, H. X., Mei, Y., & Stow, C. A. (2021). A tug-of-war within the hydrologic cycle of a continental freshwater basin. Geophysical Research Letters, 48, e2020GL090374. https://doi.org/10.1029/2020GL090374
 
