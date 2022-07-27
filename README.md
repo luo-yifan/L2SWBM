@@ -18,6 +18,23 @@ Download the R statistical programming environment https://cran.r-project.org/
 
 Open R, and enter the command "install.packages(c('rjags'))", select your mirror, and install locally if necessary
 
+## References
+GRONEWOLD, A.D., J. Bruxer, D. Durnford, A.H. CLITES, J.P. SMITH, F. Segleniecks, S.S. Qian, T.S. HUNTER, and V. Fortin (2016) Hydrological drivers of record-setting water level rise on Earth's largest lake system. Water Resources Research  52(DOI:10.1002/2015WR018209). https://www.glerl.noaa.gov/pubs/fulltext/2016/20160014.pdf
+
+Smith, J.P., & Gronewold, A.D. (2017). Development and analysis of a Bayesian water balance model for large lake systems. arXiv: Applications. https://arxiv.org/abs/1710.10161
+
+SMITH, J.P. and A.D. GRONEWOLD (2018) Summary Report: Development of the Large Lake Statistical Water Balance Model for Constructing a New Historical Record of the Great Lakes Water Balance. FINAL report for the International Joint Commission. https://www.glerl.noaa.gov/pubs/fulltext/2018/20180021.pdf
+
+SMITH, J.P., A.D. Gronewold, L. Read and J.L. Crooks (2019) Large Lake Statistical Water Balance Model - Laurentian Great Lakes -  1 month time window - 1980 through 2015 monthly summary data and model output. Deep Blue, University of Michigan, Ann Arbor, MI. https://doi.org/10.7302/s6h1-d521
+
+Gronewold, A. D., Smith, J. P., Read, L., & Crooks, J. L. (2020). Reconciling the water balance of large lake systems. Advances in Water Resources, 103505. https://doi.org/10.1016/j.advwatres.2020.103505
+
+Do, H.X., J.P. Smith, L.M. Fry and A.D. Gronewold (2020) Seventy-year long record of monthly water balance estimates for Earth’slargest lake system. Scientific Data 7, 276. https://doi.org/10.1038/s41597-020-00613-z
+
+Do, Hong X., J.P. SMITH, L.M. Fry and A.D. Gronewold (2020) Monthly water balance estimates for the Laurentian Great Lakes from 1950 to 2019 (v1.1).  Deep Blue, University of Michigan, Ann Arbor, MI. https://doi.org/10.7302/tx97-nn12
+
+Gronewold, A. D., Do, H. X., Mei, Y., & Stow, C. A. (2021). A tug-of-war within the hydrologic cycle of a continental freshwater basin. Geophysical Research Letters, 48, e2020GL090374. https://doi.org/10.1029/2020GL090374
+
 ## What is this repository
 The L2SWBM modelling system encompasses many ancillary tools, and we are continually in the
 process of making these tools available for general community use. This repository serves as a hub
@@ -33,7 +50,7 @@ each tool set.
 
 
 
-## Official repositories
+## Public repositories
 |Repository|Description|Support status|
 |------|------|-----------|
 [wrf_hydro_nwm_public](https://github.com/NCAR/wrf_hydro_nwm_public) | Community repository for the core L2SWBM model code | ![](static/badges/Status-Core-green.svg) |
