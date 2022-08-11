@@ -6,7 +6,7 @@ Meta-repository for the Large Lakes Statistical Water Balance Model (L2SWBM). Th
 ## What is L2SWBM?
 The Laurentian Great Lakes and St. Lawrence River basin comprises the largest freshwater system on Earth, containing about one-fifth of the world’s surface fresh water. However, the Great Lakes basin has recently experienced some rapid shifts between high and low in some water balance components. Water balance models are often employed to improve understanding of drivers of change in regional hydrologic cycles. Most of these models, however, are physically-based, and few employ state-of-the-art statistical methods to reconcile measurement uncertainty and bias.
 
-<img src="https://www.glerl.noaa.gov/pubs/brochures/GreatLakesWaterBudgets.png?as=webp" width=500/ >
+<img src="https://www.glerl.noaa.gov/pubs/brochures/GreatLakesWaterBudgets.png?as=webp" width=900/ >
 
 Starting in 2015, NOAA Great Lakes Environmental Research Laboratory (GLERL), along with its partners at the University of Michigan Cooperative Institute for Great Lakes Research (CIGLR), began developing a water balance model under a Bayesian Markov chain Monte Carlo framework. Through this model, we generate new estimates of monthly runoff, over-lake evaporation, over-lake precipitation, and connecting channel flows for each of the Great Lakes. The new model reconciles discrepancies between model and measurement-based estimates of each component while closing the Laurentian Great Lakes water balance.
 
